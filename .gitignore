@@ -1,0 +1,4 @@
+*.ex5
+MQL5/Files/TGQ_*.txt
+*.log
+/.idea/
